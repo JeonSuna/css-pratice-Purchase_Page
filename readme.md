@@ -1,0 +1,1 @@
+[figma](https://www.figma.com/design/WyFL7XWV7cFkNfr8Z3MWIZ/Essential-UI---Figma-Ui-Kit-(Community)?node-id=315-449&node-type=CANVAS&t=aoYVhwlPHRYNfVez-0)
