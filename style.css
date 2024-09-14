@@ -28,7 +28,7 @@ button{
     font-size:62.5%;
 }
 body{
-    font-size:1.4rem;
+    font-size:1.4rem; 
 }
 
 
@@ -101,7 +101,6 @@ body{
     white-space: nowrap;
     overflow:hidden;
     text-overflow: ellipsis;
-    
 }
 .card-header{
     margin-bottom:21px;
@@ -129,6 +128,7 @@ body{
     flex-shrink: 0;
     font-weight: 600;
     color:var(--point-color2)
+    /*너,비 높이 설정*/
 }
 
 .card-content{
