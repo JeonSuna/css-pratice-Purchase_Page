@@ -123,11 +123,14 @@ body{
 
 .button{
     background-color: var(--point-color);
-    padding:2px 4px 4px 6px;
     border-radius: 50%;
     flex-shrink: 0;
     font-weight: 600;
-    color:var(--point-color2)
+    color:var(--point-color2);
+    width:25px;
+    height:25px;
+    padding:0 0 3px 7px ;
+    box-sizing: border-box;
     /*너,비 높이 설정*/
 }
 
